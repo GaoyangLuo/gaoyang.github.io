@@ -24,9 +24,9 @@ repository               : "GaoyangLuo/gaoyangluo.github.io#"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "LUO Gaoyang"
-  pronouns         : "He"  
-  bio              : "AI4Science Researcher | Microbiome & Medecine @ University of New South Wales & Westlake University. Passionate about Machine Learning, and their applications in solving real-world problems."
+  name             : "Gaoyang LUO"
+  pronouns         : # e.g., "he/him", "she/her", "they/them"  
+  bio              : "AI4Science Researcher | Microbiome & Medecine @ University of New South Wales & Westlake University. Passionate about Machine Learning, and their applications in solving real-world microbiome problems."
   location         : "Sydney, Australia"
   employer         : "University of New South Wales & Westlake University"
   uri              : # URL

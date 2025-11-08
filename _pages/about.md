@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "personal site for Gaoyang"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,13 +12,15 @@ About
 
 I'm now a PhD student in Medicine at [Microbiome Research Center](https://microbiome.org.au/), University of New South Wales. Under supervision by [Prof. Emad El-Omer](https://scholar.google.com/citations?user=PRm8VmMAAAAJ&hl=en) and [Dr. Xiaotao Jiang](https://scholar.google.com/citations?user=Xp-W0XQAAAAJ&hl=en).Focuing on AMR problem in large cohort of Austrilian population.
 
-I'm also long-term visiting reseracher at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) and [Environmental Science and Engineering Environmental Microbiome and Biotechnology Laboratory (EMBLab)](http://www.ju-emblab.com/), led by [Dr. Feng Ju](http://www.ju-emblab.com/nd.jsp?id=7). There I am engaging with AI for Science (AI4Sci), particularly on RNA virus indentification and microbial language model.
+I'm also long-term visiting reseracher at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) and [Environmental Science and Engineering Environmental Microbiome and Biotechnology Laboratory (EMBLab)](http://www.ju-emblab.com/), led by [Dr. Feng Ju](http://www.ju-emblab.com/nd.jsp?id=7). There I am engaging with AI for Science (AI4Sci), particularly on RNA virus indentification and microbial language model. I was also honored to be a intern student and research assistant udner supervision the [Dr. Yu li](https://scholar.google.com/citations?user=MrruUUQAAAAJ&hl=en&oi=ao) at The Chinese University of Hong Kong (CUHK), where I stared my journey on AI4Science by transfering from bioinfomatics.
 
 
 
 Research Interests
 ======
-1. Large Language model in biological sequencing data (DNA, RNA, Amino acids)
+1. Biological Foundation model (DNA, RNA, Amino acids).
+2. Antimicrobial resistance
+3. AI in identification RNA virus.
 
 
 Publication

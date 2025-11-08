@@ -21,7 +21,7 @@ Research Interests
 2. Antimicrobial resistance
 3. AI in identification RNA virus.
 
-Publication
+Publication & Software
 ======
 Representative publications (including preprint and under preparation)
 ------
@@ -32,14 +32,14 @@ Representative publications (including preprint and under preparation)
 
   <!-- 右侧文字内容 -->
   <div>
-    <h4 style="margin: 0;">📄 <a href="https://github.com/GaoyangLuo/CompRanking" target="_blank">CompRaning: a pipeline for quantitatively ranking the risk antimicrobial resistance in environmental metagenomic samples</a></h4>
+    <h4 style="margin: 0;">📄 <a href="https://github.com/GaoyangLuo/CompRanking" target="_blank">CompRanking: a pipeline for quantitatively ranking the risk antimicrobial resistance in environmental metagenomic samples</a></h4>
     <p style="margin: 5px 0;"><strong>Authors:</strong> Gaoyang Luo</p>
     <p style="margin: 5px 0;"><strong>Software:</strong> Open-sourced</p>
     <p style="margin: 5px 0;">This pipeline is used to quantitatively ranking AMR risk in environmental metagenomic samples</p>
   </div>
 </div>
 
-<!-- 示例论文条目 -->
+<!-- Rider-article -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
   <img src="https://gaoyangluo.github.io/images/artiles/rider_temperal.png" alt="Paper Image" style="width: 300px; height: 160px; object-fit: cover; margin-right: 20px;">
@@ -48,6 +48,20 @@ Representative publications (including preprint and under preparation)
   <div>
     <h4 style="margin: 0;">📄 <a href="https://github.com/emblab-westlake/Rider" target="_blank">Expanding the RNA Virus Universe by Deep Learning Discovery with Rider</a></h4>
     <p style="margin: 5px 0;"><strong>Authors:</strong> Gaoyang Luo#, Zelin Zang#, Ling Yuan, Jingbo Zhou, Ao Dong, Yufei Huang, Stan Z. Li, Feng Ju*</p>
+    <p style="margin: 5px 0;"><strong>Journal Artile:</strong> ArXiv</p>
+    <p style="margin: 5px 0;">Identification of RNA virus using deep learning</p>
+  </div>
+</div>
+
+<!-- Rider-software -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- 左侧图片 -->
+  <img src="https://gaoyangluo.github.io/images/artiles/Rider_pipleline.png" alt="Paper Image" style="width: 300px; height: 160px; object-fit: cover; margin-right: 20px;">
+
+  <!-- 右侧文字内容 -->
+  <div>
+    <h4 style="margin: 0;">📄 <a href="https://github.com/emblab-westlake/Rider" target="_blank">Rider: A deep learning added method for fast RNA identification</a></h4>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> Gaoyang Luo</p>
     <p style="margin: 5px 0;"><strong>Software:</strong> Open-sourced</p>
     <p style="margin: 5px 0;">Identification of RNA virus using deep learning</p>
   </div>
@@ -62,7 +76,7 @@ Representative publications (including preprint and under preparation)
   <div>
     <h4 style="margin: 0;">📄 <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.5c00246" target="_blank">Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</a></h4>
     <p style="margin: 5px 0;"><strong>Authors:</strong> Gaoyang Luo, Lu Fan, Bin Liang, Jianhua Guo, Shu-Hong Gao*</p>
-    <p style="margin: 5px 0;"><strong>Software:</strong> Open-sourced</p>
+    <p style="margin: 5px 0;"><strong>Journal Article:</strong> Environmental Science & Technology, 2025</p>
     <p style="margin: 5px 0;">Quantifing the AMR risk in the plastisphere</p>
   </div>
 </div>
@@ -76,7 +90,7 @@ Representative publications (including preprint and under preparation)
   <div>
     <h4 style="margin: 0;">📄 <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.3c01128" target="_blank">Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</a></h4>
     <p style="margin: 5px 0;"><strong>Authors:</strong> Gaoyang Luo, Bin Liang, Hanlin Cui, Yuanyuan Kang, Xu Zhou, Yu Tao, Lu Lu, Lu Fan, Jianhua Guo, Aijie Wang, *Shu-Hong Gao*</p>
-    <p style="margin: 5px 0;"><strong>Software:</strong> Open-sourced</p>
+    <p style="margin: 5px 0;"><strong>Journal Article:</strong> Environmental Science & Technology, 2023</p>
     <p style="margin: 5px 0;">Review of AMR risk in the plastisphere</p>
   </div>
 </div>

@@ -23,9 +23,9 @@ Research Interests
 
 Education
 ======
-2025.05 - Present  Ph.D at University of New South Wales (UNSW)
-2020.09 - 2023.06  M.Phil at Harbin Institute of Technology (HIT)
-2016.09 - 2020.06  B.sc at Jilin Agricultural University (JLAU)
+- 2025.05 - Present  Ph.D at University of New South Wales (UNSW)
+- 2020.09 - 2023.06  M.Phil at Harbin Institute of Technology (HIT)
+- 2016.09 - 2020.06  B.sc at Jilin Agricultural University (JLAU)
 
 Publication & Software
 ======

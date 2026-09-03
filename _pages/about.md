@@ -9,9 +9,7 @@ redirect_from:
 
 About 
 ======
-I am a PhD researcher at the University of New South Wales (UNSW), conducting research at the [Victor Chang Cardiac Research Institute](https://www.victorchang.edu.au/) in the areas of **AI for Biology**, **AI for Genomics**, and **biological foundation models**. My work focuses on developing machine learning approaches to decode how genomic sequences encode biological functions and how genetic and epigenetic programs change during ageing.
-
-I am an intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), where I work with [A/Prof. Siqi Sun](https://beamlab.ai/) in the [BEAM Lab](https://beamlab.ai/) on AI-driven scientific discovery. I am also doing a long term visiting at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN). I am engaging with AI for Science (AI4Sci), particularly on **protein structure prediction**, **RNA virus indentification** and **microbiome foundation model**. 
+I am a PhD researcher at the University of New South Wales (UNSW), conducting research at the [Victor Chang Cardiac Research Institute](https://www.victorchang.edu.au/) in the areas of **AI for Biology**. I am also an intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), where I work with [A/Prof. Siqi Sun](https://beamlab.ai/) in the [BEAM Lab](https://beamlab.ai/) on AI-driven scientific discovery. I am also doing a long term visiting at [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN). I am engaging with AI for Science (AI4Sci), particularly on **protein structure prediction**, **RNA virus indentification** and **microbiome foundation model**. 
 
 My long-term vision is to build AI-driven digital twins of human health by integrating genomic, molecular, microbial, and clinical information across biological scales.
 

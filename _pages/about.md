@@ -17,11 +17,11 @@ Research Interests
 ======
 My research interests lie at the intersection of AI and Biology, with a particular focus on:
 
-1. AI for Biology and Biological Foundation Models
-2. Computational and Regulatory Genomics
-3. Genetics and Epigenetics of Ageing
-4. Microbiome Intelligence and RNA Virus Discovery
-5. Digital Twins for Human Health
+1. Biological Foundation Models
+2. Microbiome Intelligence and Digital Twins for Human Health
+3. Computational and Regulatory Genomics
+4. RNA Virus Discovery
+
 
 Education
 ======
@@ -31,11 +31,11 @@ Education
 
 Internship and Working
 ======
-- 2026.06 - present    Research Intern, Shanghai AI Lab
-- 2025.06 - present    Visiting Scholar, CAIRI, Westlake University
-- 2024.01 - 2025.05    Research Assistnat, CAIRI and EMBLab, Westlake University
-- 2023.09 - 2025.05    Research Intern, UNSW Microbiome Research Center.
-- 2022.12 - 2023.08    Research Intern, AI for Healthcare Group, Chinese University of Hong Kong.
+- 2026.06 - present    Research Intern      Shanghai AI Lab
+- 2025.06 - present    Research Intern      CAIRI, Westlake University
+- 2025.05 - 2026.04    Researcher           UNSW Microbiome Research Center
+- 2024.01 - 2025.05    Research Assistnat   CAIRI and EMBLab, Westlake University
+- 2022.12 - 2023.08    Research Intern      AI for Healthcare Group, Chinese University of Hong Kong.
 - 2021.04 - 2022.04    Visiting Student, Southern University of Science and Technology.
 
 Publication & Software

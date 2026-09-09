@@ -20,7 +20,7 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include suffix(0.5 of 12);
   }
 
   .page__inner-wrap {
@@ -112,6 +112,20 @@
     font-size: 0.9em;
     line-height: 1.65;
   }
+
+  h2 {
+    margin: 1.8em 0 0.55em;
+    padding-bottom: 0.35em;
+    font-size: 1.12em;
+    font-weight: 650;
+  }
+}
+
+.section-icon {
+  width: 1.2em;
+  color: var(--global-link-color-hover);
+  font-size: 0.86em;
+  text-align: center;
 }
 
 .news-feed {
@@ -189,9 +203,9 @@
 }
 
 .featured-item__image {
-  flex: 0 0 300px;
-  width: 300px;
-  height: 170px;
+  flex: 0 0 240px;
+  width: 240px;
+  height: 145px;
   margin-right: 20px;
   object-fit: cover;
   object-position: center;
@@ -203,8 +217,8 @@
 
 .featured-item__title {
   margin: 0 0 0.35em;
-  font-size: 1.1em;
-  line-height: 1.35;
+  font-size: 1em;
+  line-height: 1.42;
   font-weight: 700;
 
   a {

@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-About 
-======
+## <i class="fas fa-user section-icon" aria-hidden="true"></i> About
 I am a PhD researcher at the University of New South Wales (UNSW), conducting research at the [Victor Chang Cardiac Research Institute](https://www.victorchang.edu.au/) on **AI for Biology**. I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [A/Prof. Siqi Sun](https://beamlab.ai/) in the [BEAM Lab](https://beamlab.ai/) on AI-driven scientific discovery, and a long-term visiting researcher at the [Center for Artificial Intelligence Research and Innovation (CAIRI AI Lab)](https://www.westlake.edu.cn/), led by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN). My work in AI for Science (AI4Sci) focuses on **protein structure prediction**, **RNA virus identification**, and **microbiome foundation models**.
 
 My long-term vision is to build AI-driven digital twins of human health by integrating genomic, molecular, microbial, and clinical information across biological scales.
 
-News
-======
+## <i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News
 <div class="news-feed">
   <ul>
     <li><time class="news-date" datetime="2026-08">2026.08</time><span>Our work on deep-learning-based RNA virus discovery, <em>Expanding the RNA Virus Universe by Deep Learning Discovery</em>, was accepted by <strong>Nature Communications</strong>.</span></li>
@@ -26,8 +24,7 @@ News
   </ul>
 </div>
 
-Research Interests
-======
+## <i class="fas fa-microscope section-icon" aria-hidden="true"></i> Research Interests
 My research interests lie at the intersection of AI and Biology, with a particular focus on:
 
 <ol class="interest-list">
@@ -38,16 +35,14 @@ My research interests lie at the intersection of AI and Biology, with a particul
 </ol>
 
 
-Education
-======
+## <i class="fas fa-graduation-cap section-icon" aria-hidden="true"></i> Education
 <ul class="timeline-list">
   <li><time>2025.06 – Present</time><span><strong>PhD</strong>, University of New South Wales (UNSW)</span></li>
   <li><time>2020.09 – 2023.06</time><span><strong>MPhil</strong>, Harbin Institute of Technology (HIT)</span></li>
   <li><time>2016.09 – 2020.06</time><span><strong>BSc</strong>, Jilin Agricultural University (JLAU)</span></li>
 </ul>
 
-Appointments & Experience
-======
+## <i class="fas fa-briefcase section-icon" aria-hidden="true"></i> Appointments &amp; Experience
 <ul class="timeline-list">
   <li><time>2026.06 – Present</time><span><strong>Research Intern</strong>, Shanghai AI Laboratory and Fudan University</span></li>
   <li><time>2025.05 – 2026.04</time><span><strong>Researcher</strong>, UNSW Microbiome Research Center</span></li>
@@ -56,15 +51,14 @@ Appointments & Experience
   <li><time>2021.04 – 2022.04</time><span><strong>Visiting Student</strong>, Southern University of Science and Technology</span></li>
 </ul>
 
-Selected Publications
-======
+## <i class="fas fa-file-lines section-icon" aria-hidden="true"></i> Selected Publications
 Selected publications, including preprints and work in preparation.
 
 <!-- Rider-article -->
 <div class="featured-item">
   <img class="featured-item__image" src="https://gaoyangluo.github.io/images/artiles/rider_experiment.png" alt="RNA virus discovery workflow">
   <div class="featured-item__body">
-    <h3 class="featured-item__title"><span aria-hidden="true">📄</span> <a href="https://www.biorxiv.org/content/10.1101/2025.11.24.690314v1" target="_blank">Expanding the RNA Virus Universe by Deep Learning Discovery</a></h3>
+    <h3 class="featured-item__title"><a href="https://www.biorxiv.org/content/10.1101/2025.11.24.690314v1" target="_blank">Expanding the RNA Virus Universe by Deep Learning Discovery</a></h3>
     <p class="featured-item__authors"><strong>Gaoyang Luo#</strong>, Zelin Zang, Ling Yuan, Jingbo Zhou, Ao Dong, Yufei Huang, Stan Z. Li, Feng Ju*</p>
     <p class="featured-item__venue">Nature Communications <span>Accepted · 2026</span></p>
     <p class="featured-item__summary">Deep-learning-based discovery of RNA viruses.</p>
@@ -75,7 +69,7 @@ Selected publications, including preprints and work in preparation.
 <div class="featured-item">
   <img class="featured-item__image" src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere.png" alt="Plastisphere antimicrobial resistance study">
   <div class="featured-item__body">
-    <h3 class="featured-item__title"><span aria-hidden="true">📄</span> <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.5c00246" target="_blank">Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</a></h3>
+    <h3 class="featured-item__title"><a href="https://pubs.acs.org/doi/full/10.1021/acs.est.5c00246" target="_blank">Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</a></h3>
     <p class="featured-item__authors"><strong>Gaoyang Luo</strong>, Lu Fan, Bin Liang, Jianhua Guo, Shu-Hong Gao*</p>
     <p class="featured-item__venue">Environmental Science &amp; Technology <span>2025</span></p>
     <p class="featured-item__summary">Quantifying antimicrobial-resistance risk in the plastisphere.</p>
@@ -86,22 +80,21 @@ Selected publications, including preprints and work in preparation.
 <div class="featured-item">
   <img class="featured-item__image" src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere_review.png" alt="Microplastics and antimicrobial resistance review">
   <div class="featured-item__body">
-    <h3 class="featured-item__title"><span aria-hidden="true">📄</span> <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.3c01128" target="_blank">Determining the Contribution of Micro/Nanoplastics to Antimicrobial Resistance: Challenges and Perspectives</a></h3>
+    <h3 class="featured-item__title"><a href="https://pubs.acs.org/doi/full/10.1021/acs.est.3c01128" target="_blank">Determining the Contribution of Micro/Nanoplastics to Antimicrobial Resistance: Challenges and Perspectives</a></h3>
     <p class="featured-item__authors"><strong>Gaoyang Luo</strong>, Bin Liang, Hanlin Cui, Yuanyuan Kang, Xu Zhou, Yu Tao, Lu Lu, Lu Fan, Jianhua Guo, Aijie Wang, Shu-Hong Gao*</p>
     <p class="featured-item__venue">Environmental Science &amp; Technology <span>2023</span></p>
     <p class="featured-item__summary">A review of antimicrobial-resistance risk associated with micro- and nanoplastics.</p>
   </div>
 </div>
 
-Research Software
-======
+## <i class="fas fa-code section-icon" aria-hidden="true"></i> Research Software
 Open-source research software.
 
 <!-- compranking_software -->
 <div class="featured-item">
   <img class="featured-item__image" src="https://gaoyangluo.github.io/images/artiles/compranking_pipeline.png" alt="CompRanking workflow">
   <div class="featured-item__body">
-    <h3 class="featured-item__title"><span aria-hidden="true">🧰</span> <a href="https://github.com/GaoyangLuo/CompRanking" target="_blank">CompRanking: a pipeline for quantitatively ranking antimicrobial-resistance risk in environmental metagenomic samples</a></h3>
+    <h3 class="featured-item__title"><a href="https://github.com/GaoyangLuo/CompRanking" target="_blank">CompRanking: a pipeline for quantitatively ranking antimicrobial-resistance risk in environmental metagenomic samples</a></h3>
     <p class="featured-item__authors"><strong>Gaoyang Luo</strong></p>
     <p class="featured-item__venue">Open-source software <span>GitHub</span></p>
     <p class="featured-item__summary">A pipeline for quantitative antimicrobial-resistance risk ranking in environmental metagenomic samples.</p>
@@ -112,7 +105,7 @@ Open-source research software.
 <div class="featured-item">
   <img class="featured-item__image" src="https://gaoyangluo.github.io/images/artiles/Rider_workflow_3.png" alt="Rider workflow">
   <div class="featured-item__body">
-    <h3 class="featured-item__title"><span aria-hidden="true">🧰</span> <a href="https://github.com/emblab-westlake/Rider" target="_blank">Rider: a deep-learning method for rapid RNA virus identification</a></h3>
+    <h3 class="featured-item__title"><a href="https://github.com/emblab-westlake/Rider" target="_blank">Rider: a deep-learning method for rapid RNA virus identification</a></h3>
     <p class="featured-item__authors"><strong>Gaoyang Luo</strong></p>
     <p class="featured-item__venue">Open-source software <span>GitHub</span></p>
     <p class="featured-item__summary">A deep-learning tool for rapid RNA virus identification.</p>

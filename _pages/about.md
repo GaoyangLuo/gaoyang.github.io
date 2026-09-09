@@ -48,7 +48,7 @@ My research interests lie at the intersection of AI and Biology, with a particul
   <li><time>2025.05 – 2026.04</time><span><strong>Researcher</strong> <span class="employment-badge employment-badge--full-time">Full-time</span>, UNSW Microbiome Research Center</span></li>
   <li><time>2024.01 – 2025.05</time><span><strong>Research Assistant</strong> <span class="employment-badge employment-badge--full-time">Full-time</span>, CAIRI and EMBLab, Westlake University</span></li>
   <li><time>2022.12 – 2023.08</time><span><strong>Research Intern</strong> <span class="employment-badge employment-badge--intern">Internship</span>, AI for Healthcare Group, Chinese University of Hong Kong</span></li>
-  <li><time>2021.04 – 2022.04</time><span><strong>Visiting Student</strong>, Southern University of Science and Technology</span></li>
+  <li><time>2021.04 – 2022.04</time><span><strong>Visiting Student</strong> <span class="employment-badge employment-badge--visiting">Visiting</span>, Southern University of Science and Technology</span></li>
 </ul>
 
 ## <i class="fas fa-file-lines section-icon" aria-hidden="true"></i> Selected Publications
@@ -71,7 +71,7 @@ Selected publications, including preprints and work in preparation.
   <div class="featured-item__body">
     <h3 class="featured-item__title"><a href="https://pubs.acs.org/doi/full/10.1021/acs.est.5c00246" target="_blank">Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</a></h3>
     <p class="featured-item__authors"><strong>Gaoyang Luo</strong>, Lu Fan, Bin Liang, Jianhua Guo, Shu-Hong Gao*</p>
-    <p class="featured-item__venue">Environmental Science &amp; Technology <span>2025</span></p>
+    <p class="featured-item__venue">Environmental Science &amp; Technology <span>2025</span> <span>JCR Q1</span> <span>JIF 11.3 (2024)</span> <span>ACS ES&amp;T flagship</span></p>
     <p class="featured-item__summary">Quantifying antimicrobial-resistance risk in the plastisphere.</p>
   </div>
 </div>
@@ -82,7 +82,7 @@ Selected publications, including preprints and work in preparation.
   <div class="featured-item__body">
     <h3 class="featured-item__title"><a href="https://pubs.acs.org/doi/full/10.1021/acs.est.3c01128" target="_blank">Determining the Contribution of Micro/Nanoplastics to Antimicrobial Resistance: Challenges and Perspectives</a></h3>
     <p class="featured-item__authors"><strong>Gaoyang Luo</strong>, Bin Liang, Hanlin Cui, Yuanyuan Kang, Xu Zhou, Yu Tao, Lu Lu, Lu Fan, Jianhua Guo, Aijie Wang, Shu-Hong Gao*</p>
-    <p class="featured-item__venue">Environmental Science &amp; Technology <span>2023</span></p>
+    <p class="featured-item__venue">Environmental Science &amp; Technology <span>2023</span> <span>JCR Q1</span> <span>JIF 11.3 (2024)</span> <span>ACS ES&amp;T flagship</span></p>
     <p class="featured-item__summary">A review of antimicrobial-resistance risk associated with micro- and nanoplastics.</p>
   </div>
 </div>

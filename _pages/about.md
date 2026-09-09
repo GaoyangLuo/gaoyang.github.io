@@ -13,6 +13,15 @@ I am a PhD researcher at the University of New South Wales (UNSW), conducting re
 
 My long-term vision is to build AI-driven digital twins of human health by integrating genomic, molecular, microbial, and clinical information across biological scales.
 
+News
+======
+- **2026.08** — Our work on deep-learning-based RNA virus discovery, *Expanding the RNA Virus Universe by Deep Learning Discovery*, was accepted by **Nature Communications**.
+- **2026.06** — Started research internships at **Shanghai AI Laboratory** and **Fudan University**.
+- **2025.05** — Moved to Sydney and joined the **University of New South Wales (UNSW)**.
+- **2024.04** — Our article, *Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics*, was accepted by **Environmental Science & Technology**.
+- **2024.01** — Joined the Department of Artificial Intelligence, School of Engineering, **Westlake University**.
+- **2023.08** — Our review, *Determining the Contribution of Micro/Nanoplastics to Antimicrobial Resistance: Challenges and Perspectives*, was accepted by **Environmental Science & Technology**.
+
 Research Interests
 ======
 My research interests lie at the intersection of AI and Biology, with a particular focus on:
@@ -45,7 +54,7 @@ Representative publications (including preprint and under preparation)
 <!-- compranking_software -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/compranking_pipeline.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/compranking_pipeline.png" alt="Paper Image" style="width: 300px; height: 170px; object-fit: cover; object-position: center; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
@@ -59,7 +68,7 @@ Representative publications (including preprint and under preparation)
 <!-- Rider-article -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/rider_experiment.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/rider_experiment.png" alt="Paper Image" style="width: 300px; height: 170px; object-fit: cover; object-position: center; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
@@ -73,7 +82,7 @@ Representative publications (including preprint and under preparation)
 <!-- Rider-software -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/Rider_workflow_3.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/Rider_workflow_3.png" alt="Paper Image" style="width: 300px; height: 170px; object-fit: cover; object-position: center; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
@@ -87,7 +96,7 @@ Representative publications (including preprint and under preparation)
 <!-- AMR_plastisphere_review -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere.png" alt="Paper Image" style="width: 300px; height: 170px; object-fit: cover; object-position: center; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>
@@ -101,7 +110,7 @@ Representative publications (including preprint and under preparation)
 <!-- AMR_plastisphere_research -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere_review.png" alt="Paper Image" style="width: 300px; height: auto; object-fit: cover; margin-right: 20px;">
+  <img src="https://gaoyangluo.github.io/images/artiles/AMR_plastisphere_review.png" alt="Paper Image" style="width: 300px; height: 170px; object-fit: cover; object-position: center; margin-right: 20px;">
 
   <!-- 右侧文字内容 -->
   <div>

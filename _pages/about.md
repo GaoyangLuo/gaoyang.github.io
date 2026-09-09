@@ -111,3 +111,25 @@ Open-source research software.
     <p class="featured-item__summary">A deep-learning tool for rapid RNA virus identification.</p>
   </div>
 </div>
+
+## <i class="fas fa-database section-icon" aria-hidden="true"></i> Open Resources
+
+<div class="resource-grid">
+  <a class="resource-card" href="https://gwpd.hitsz.edu.cn/" target="_blank" rel="noopener noreferrer">
+    <i class="fas fa-water resource-card__icon" aria-hidden="true"></i>
+    <span class="resource-card__body">
+      <span class="resource-card__title">Global Water Pathogen Database (GWPD)</span>
+      <span class="resource-card__description">An open resource for waterborne pathogens and related knowledge. <strong>Contributing researcher.</strong></span>
+      <span class="resource-card__link">Explore resource <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></span>
+    </span>
+  </a>
+
+  <a class="resource-card" href="https://doi.org/10.5281/zenodo.19247869" target="_blank" rel="noopener noreferrer">
+    <i class="fas fa-dna resource-card__icon" aria-hidden="true"></i>
+    <span class="resource-card__body">
+      <span class="resource-card__title">Rider RdRp Structure Database</span>
+      <span class="resource-card__description">Versioned non-redundant RdRp structure references supporting Rider's structural alignment workflow.</span>
+      <span class="resource-card__link">View on Zenodo <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></span>
+    </span>
+  </a>
+</div>

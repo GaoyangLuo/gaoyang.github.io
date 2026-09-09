@@ -269,6 +269,19 @@
   }
 }
 
+.visitor-map {
+  max-width: 300px;
+  min-height: 120px;
+  margin: 0.65em 0 0;
+  overflow: hidden;
+
+  img,
+  iframe,
+  canvas {
+    max-width: 100%;
+  }
+}
+
 .employment-badge {
   display: inline-block;
   margin-left: 0.35em;

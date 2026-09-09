@@ -163,6 +163,10 @@ Open-source research software.
   <span id="visitor-count-value" aria-live="polite"></span>
 </div>
 
+<div class="visitor-map" aria-label="World map of approximate visitor locations">
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=iATuYncQP0nXQp_VEbKPNmoy_uGx5yI6wuNV37Uw1Vk&amp;cl=ffffff&amp;w=a"></script>
+</div>
+
 <script>
   (function () {
     var attempts = 0;

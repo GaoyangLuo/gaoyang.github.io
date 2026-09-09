@@ -196,6 +196,33 @@
   }
 }
 
+.timeline-entry {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+  min-width: 0;
+}
+
+.institution-logo-group {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 0.35em;
+}
+
+.institution-logo {
+  display: block;
+  flex: 0 0 auto;
+  width: 38px;
+  height: 38px;
+  padding: 2px;
+  border: 1px solid var(--global-border-color);
+  border-radius: 7px;
+  background: #fff;
+  object-fit: contain;
+}
+
 .employment-badge {
   display: inline-block;
   margin-left: 0.35em;
@@ -230,13 +257,59 @@
   margin-bottom: 28px;
 }
 
-.featured-item__image {
+.featured-item__media {
   flex: 0 0 240px;
   width: 240px;
   height: 145px;
   margin-right: 20px;
+  position: relative;
+  display: block;
+  overflow: hidden;
+  border-radius: 6px;
+  background: var(--global-border-color);
+  text-decoration: none;
+}
+
+.featured-item__image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin: 0;
   object-fit: cover;
   object-position: center;
+  transition: transform 180ms ease;
+}
+
+.featured-item__overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45em;
+  padding: 1em;
+  background: rgba(27, 49, 58, 0.78);
+  color: #fff;
+  font-size: 0.82em;
+  font-weight: 650;
+  line-height: 1.2;
+  opacity: 0;
+  transition: opacity 180ms ease;
+}
+
+.featured-item__media:hover,
+.featured-item__media:focus-visible {
+  text-decoration: none;
+}
+
+.featured-item__media:hover .featured-item__image,
+.featured-item__media:focus-visible .featured-item__image {
+  transform: scale(1.04);
+}
+
+.featured-item__media:hover .featured-item__overlay,
+.featured-item__media:focus-visible .featured-item__overlay {
+  opacity: 1;
 }
 
 .featured-item__body {
@@ -359,6 +432,10 @@
     gap: 0.15em;
   }
 
+  .timeline-entry {
+    width: 100%;
+  }
+
   .featured-item {
     display: block;
   }
@@ -367,11 +444,9 @@
     grid-template-columns: 1fr;
   }
 
-  .featured-item__image {
-    display: block;
+  .featured-item__media {
     width: 100%;
-    height: auto;
-    max-height: 190px;
+    height: 190px;
     margin: 0 0 12px;
   }
 }

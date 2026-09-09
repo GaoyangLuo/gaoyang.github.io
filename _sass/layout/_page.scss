@@ -251,6 +251,24 @@
   }
 }
 
+.visitor-counter {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  margin-top: 1.15em;
+  color: var(--global-text-color-light);
+  font-size: 0.78em;
+
+  i {
+    color: var(--global-link-color-hover);
+  }
+
+  #visitor-count-value {
+    font-weight: 650;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
 .employment-badge {
   display: inline-block;
   margin-left: 0.35em;

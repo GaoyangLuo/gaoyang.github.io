@@ -156,3 +156,28 @@ Open-source research software.
   <li><time>2020.09 – 2023.06</time><span><strong>MPhil</strong>, Harbin Institute of Technology (HIT)</span></li>
   <li><time>2016.09 – 2020.06</time><span><strong>BSc</strong>, Jilin Agricultural University (JLAU)</span></li>
 </ul>
+
+<div class="visitor-counter" aria-label="Site visitor count">
+  <i class="fas fa-earth-americas" aria-hidden="true"></i>
+  <span>Visitors</span>
+  <span id="visitor-count-value" aria-live="polite"></span>
+</div>
+
+<script>
+  (function () {
+    var attempts = 0;
+    var timer = window.setInterval(function () {
+      attempts += 1;
+      if (window.goatcounter && window.goatcounter.visit_count) {
+        window.clearInterval(timer);
+        window.goatcounter.visit_count({
+          append: '#visitor-count-value',
+          path: 'TOTAL',
+          no_branding: true
+        });
+      } else if (attempts >= 30) {
+        window.clearInterval(timer);
+      }
+    }, 100);
+  }());
+</script>

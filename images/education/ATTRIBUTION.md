@@ -1,6 +1,6 @@
 # Institutional-mark attribution
 
-The small institutional marks on the Education and Professional Experience timeline are reproduced solely to identify the corresponding institutions on this personal academic website. All marks remain the property of their respective institutions.
+The small institutional marks on the Education and Professional Experience timeline are reproduced solely to identify the corresponding institutions on this personal academic website. All marks remain the property of their respective institutions. The display-ready versions were prepared from image files supplied by the site owner on 2026-09-09.
 
 Sources retrieved on 2026-09-09:
 

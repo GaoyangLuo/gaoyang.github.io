@@ -50,7 +50,6 @@ Appointments & Experience
 ======
 <ul class="timeline-list">
   <li><time>2026.06 – Present</time><span><strong>Research Intern</strong>, Shanghai AI Laboratory and Fudan University</span></li>
-  <li><time>2025.06 – Present</time><span><strong>Research Intern</strong>, CAIRI, Westlake University</span></li>
   <li><time>2025.05 – 2026.04</time><span><strong>Researcher</strong>, UNSW Microbiome Research Center</span></li>
   <li><time>2024.01 – 2025.05</time><span><strong>Research Assistant</strong>, CAIRI and EMBLab, Westlake University</span></li>
   <li><time>2022.12 – 2023.08</time><span><strong>Research Intern</strong>, AI for Healthcare Group, Chinese University of Hong Kong</span></li>

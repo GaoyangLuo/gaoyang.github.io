@@ -196,6 +196,29 @@
   }
 }
 
+.employment-badge {
+  display: inline-block;
+  margin-left: 0.35em;
+  padding: 0.08em 0.5em;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  font-size: 0.72em;
+  font-weight: 650;
+  line-height: 1.25;
+  vertical-align: 0.08em;
+  white-space: nowrap;
+}
+
+.employment-badge--full-time {
+  color: #3e7180;
+  background: #eef7f8;
+}
+
+.employment-badge--intern {
+  color: #766449;
+  background: #fbf6ea;
+}
+
 .featured-item {
   display: flex;
   align-items: flex-start;

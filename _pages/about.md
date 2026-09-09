@@ -42,12 +42,12 @@ My research interests lie at the intersection of AI and Biology, with a particul
   <li><time>2016.09 – 2020.06</time><span><strong>BSc</strong>, Jilin Agricultural University (JLAU)</span></li>
 </ul>
 
-## <i class="fas fa-briefcase section-icon" aria-hidden="true"></i> Appointments &amp; Experience
+## <i class="fas fa-briefcase section-icon" aria-hidden="true"></i> Professional Experience
 <ul class="timeline-list">
-  <li><time>2026.06 – Present</time><span><strong>Research Intern</strong>, Shanghai AI Laboratory and Fudan University</span></li>
-  <li><time>2025.05 – 2026.04</time><span><strong>Researcher</strong>, UNSW Microbiome Research Center</span></li>
-  <li><time>2024.01 – 2025.05</time><span><strong>Research Assistant</strong>, CAIRI and EMBLab, Westlake University</span></li>
-  <li><time>2022.12 – 2023.08</time><span><strong>Research Intern</strong>, AI for Healthcare Group, Chinese University of Hong Kong</span></li>
+  <li><time>2026.06 – Present</time><span><strong>Research Intern</strong> <span class="employment-badge employment-badge--intern">Internship</span>, Shanghai AI Laboratory and Fudan University</span></li>
+  <li><time>2025.05 – 2026.04</time><span><strong>Researcher</strong> <span class="employment-badge employment-badge--full-time">Full-time</span>, UNSW Microbiome Research Center</span></li>
+  <li><time>2024.01 – 2025.05</time><span><strong>Research Assistant</strong> <span class="employment-badge employment-badge--full-time">Full-time</span>, CAIRI and EMBLab, Westlake University</span></li>
+  <li><time>2022.12 – 2023.08</time><span><strong>Research Intern</strong> <span class="employment-badge employment-badge--intern">Internship</span>, AI for Healthcare Group, Chinese University of Hong Kong</span></li>
   <li><time>2021.04 – 2022.04</time><span><strong>Visiting Student</strong>, Southern University of Science and Technology</span></li>
 </ul>
 

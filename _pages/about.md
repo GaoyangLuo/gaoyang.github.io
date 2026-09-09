@@ -114,22 +114,22 @@ Open-source research software.
 
 ## <i class="fas fa-database section-icon" aria-hidden="true"></i> Open Resources
 
-<div class="resource-grid">
-  <a class="resource-card" href="https://gwpd.hitsz.edu.cn/" target="_blank" rel="noopener noreferrer">
-    <i class="fas fa-water resource-card__icon" aria-hidden="true"></i>
-    <span class="resource-card__body">
-      <span class="resource-card__title">Global Water Pathogen Database (GWPD)</span>
-      <span class="resource-card__description">An open resource for waterborne pathogens and related knowledge. <strong>Contributing researcher.</strong></span>
-      <span class="resource-card__link">Explore resource <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></span>
-    </span>
-  </a>
+<div class="resource-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 16px; margin: 0.8em 0 2em;">
+  <section class="resource-card" style="display: flex; gap: 14px; padding: 18px; background: #f8fafb; border: 1px solid #e1e6e9; border-radius: 8px;">
+    <i class="fas fa-water" aria-hidden="true" style="width: 26px; color: #2f7f93; font-size: 20px; text-align: center;"></i>
+    <div>
+      <h3 style="margin: 0; font-size: 16px; line-height: 1.35;"><a href="https://gwpd.hitsz.edu.cn/" target="_blank" rel="noopener noreferrer">Global Water Pathogen Database (GWPD)</a></h3>
+      <p style="margin: 6px 0 0; color: #667085; font-size: 13px; line-height: 1.55;">An open resource for waterborne pathogens and related knowledge. <strong>Contributing researcher.</strong></p>
+      <p style="margin: 8px 0 0; font-size: 13px;"><a href="https://gwpd.hitsz.edu.cn/" target="_blank" rel="noopener noreferrer">Visit GWPD <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></a></p>
+    </div>
+  </section>
 
-  <a class="resource-card" href="https://doi.org/10.5281/zenodo.19247869" target="_blank" rel="noopener noreferrer">
-    <i class="fas fa-dna resource-card__icon" aria-hidden="true"></i>
-    <span class="resource-card__body">
-      <span class="resource-card__title">Rider RdRp Structure Database</span>
-      <span class="resource-card__description">Versioned non-redundant RdRp structure references supporting Rider's structural alignment workflow.</span>
-      <span class="resource-card__link">View on Zenodo <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></span>
-    </span>
-  </a>
+  <section class="resource-card" style="display: flex; gap: 14px; padding: 18px; background: #f8fafb; border: 1px solid #e1e6e9; border-radius: 8px;">
+    <i class="fas fa-dna" aria-hidden="true" style="width: 26px; color: #2f7f93; font-size: 20px; text-align: center;"></i>
+    <div>
+      <h3 style="margin: 0; font-size: 16px; line-height: 1.35;"><a href="https://doi.org/10.5281/zenodo.19247869" target="_blank" rel="noopener noreferrer">Rider RdRp Structure Database</a></h3>
+      <p style="margin: 6px 0 0; color: #667085; font-size: 13px; line-height: 1.55;">Versioned non-redundant RdRp structure references supporting Rider's structural alignment workflow.</p>
+      <p style="margin: 8px 0 0; font-size: 13px;"><a href="https://doi.org/10.5281/zenodo.19247869" target="_blank" rel="noopener noreferrer">View on Zenodo <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></a></p>
+    </div>
+  </section>
 </div>

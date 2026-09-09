@@ -196,35 +196,6 @@
   }
 }
 
-.timeline-entry {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: 0.8em;
-  min-width: 0;
-}
-
-.timeline-entry__content {
-  min-width: 0;
-  padding-top: 0.15em;
-}
-
-.institution-logo-group {
-  display: inline-flex;
-  flex: 0 0 auto;
-  align-items: center;
-  gap: 0.35em;
-}
-
-.institution-logo {
-  display: block;
-  flex: 0 0 auto;
-  width: 42px;
-  height: 42px;
-  padding: 0;
-  object-fit: contain;
-}
-
 .employment-badge {
   display: inline-block;
   margin-left: 0.35em;
@@ -432,10 +403,6 @@
   .timeline-list li {
     grid-template-columns: 1fr;
     gap: 0.15em;
-  }
-
-  .timeline-entry {
-    width: 100%;
   }
 
   .featured-item {

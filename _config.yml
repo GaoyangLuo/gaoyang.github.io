@@ -23,7 +23,7 @@ repository               : "GaoyangLuo/gaoyangluo.github.io#"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_3.jpg"
+  avatar           : "profile_3.png"
   name             : "Gaoyang LUO"
   pronouns         : # e.g., "he/him", "she/her", "they/them"  
   bio              : "AI4Science Researcher"

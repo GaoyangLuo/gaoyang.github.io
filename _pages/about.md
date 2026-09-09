@@ -12,18 +12,6 @@ I am a PhD researcher at the University of New South Wales (UNSW), conducting re
 
 My long-term vision is to build AI-driven digital twins of human health by integrating genomic, molecular, microbial, and clinical information across biological scales.
 
-## <i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News
-<div class="news-feed">
-  <ul>
-    <li><time class="news-date" datetime="2026-08">2026.08</time><span>Our work on deep-learning-based RNA virus discovery, <em>Expanding the RNA Virus Universe by Deep Learning Discovery</em>, was accepted by <strong>Nature Communications</strong>.</span></li>
-    <li><time class="news-date" datetime="2026-06">2026.06</time><span>Started research internships at <strong>Shanghai AI Laboratory</strong> and <strong>Fudan University</strong>.</span></li>
-    <li><time class="news-date" datetime="2025-05">2025.05</time><span>Moved to Sydney and joined the <strong>University of New South Wales (UNSW)</strong>.</span></li>
-    <li><time class="news-date" datetime="2024-04">2024.04</time><span>Our article, <em>Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</em>, was accepted by <strong>Environmental Science &amp; Technology</strong>.</span></li>
-    <li><time class="news-date" datetime="2024-01">2024.01</time><span>Joined the Department of Artificial Intelligence, School of Engineering, <strong>Westlake University</strong>.</span></li>
-    <li><time class="news-date" datetime="2023-08">2023.08</time><span>Our review, <em>Determining the Contribution of Micro/Nanoplastics to Antimicrobial Resistance: Challenges and Perspectives</em>, was accepted by <strong>Environmental Science &amp; Technology</strong>.</span></li>
-  </ul>
-</div>
-
 ## <i class="fas fa-microscope section-icon" aria-hidden="true"></i> Research Interests
 My research interests lie at the intersection of AI and Biology, with a particular focus on:
 
@@ -34,6 +22,17 @@ My research interests lie at the intersection of AI and Biology, with a particul
   <li>RNA Virus Discovery</li>
 </ol>
 
+## <i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News
+<div class="news-feed">
+  <ul>
+    <li><time class="news-date" datetime="2026-08">2026.08</time><span><span class="news-celebration" aria-label="celebration">🎉🎉🎉</span> Our work on deep-learning-based RNA virus discovery, <em>Expanding the RNA Virus Universe by Deep Learning Discovery</em>, was accepted by <strong>Nature Communications</strong> <span class="news-tag news-tag--nature"><span class="news-tag__pulse" aria-hidden="true"></span>Nature Portfolio</span>.</span></li>
+    <li><time class="news-date" datetime="2026-06">2026.06</time><span><span class="news-symbol" aria-hidden="true">🎓</span> Started research internships at <strong>Shanghai AI Laboratory</strong> and <strong>Fudan University</strong>.</span></li>
+    <li><time class="news-date" datetime="2025-05">2025.05</time><span><span class="news-symbol" aria-hidden="true">✈️</span> Moved to Sydney and joined the <strong>University of New South Wales (UNSW)</strong>.</span></li>
+    <li><time class="news-date" datetime="2024-04">2024.04</time><span><span class="news-celebration" aria-label="celebration">🎉🎉</span> Our article, <em>Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</em>, was accepted by <strong>Environmental Science &amp; Technology</strong> <span class="news-tag news-tag--acs">ACS journal</span>.</span></li>
+    <li><time class="news-date" datetime="2024-01">2024.01</time><span><span class="news-symbol" aria-hidden="true">🔬</span> Joined the Department of Artificial Intelligence, School of Engineering, <strong>Westlake University</strong>.</span></li>
+    <li><time class="news-date" datetime="2023-08">2023.08</time><span><span class="news-celebration" aria-label="celebration">🎉🎉</span> Our review, <em>Determining the Contribution of Micro/Nanoplastics to Antimicrobial Resistance: Challenges and Perspectives</em>, was accepted by <strong>Environmental Science &amp; Technology</strong> <span class="news-tag news-tag--acs">ACS journal</span>.</span></li>
+  </ul>
+</div>
 
 ## <i class="fas fa-briefcase section-icon" aria-hidden="true"></i> Professional Experience
 <ul class="timeline-list">

@@ -19,7 +19,7 @@ My research interests lie at the intersection of AI and Biology, with a particul
 
 1. Biological Foundation Models
 2. Microbiome Intelligence and Digital Twins for Human Health
-3. Computational and Regulatory Genomics
+3. Computational Genomics
 4. RNA Virus Discovery
 
 

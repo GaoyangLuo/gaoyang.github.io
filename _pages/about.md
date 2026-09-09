@@ -60,7 +60,7 @@ Selected publications, including preprints and work in preparation.
   <div class="featured-item__body">
     <h3 class="featured-item__title"><a href="https://www.biorxiv.org/content/10.1101/2025.11.24.690314v1" target="_blank">Expanding the RNA Virus Universe by Deep Learning Discovery</a></h3>
     <p class="featured-item__authors"><strong>Gaoyang Luo#</strong>, Zelin Zang, Ling Yuan, Jingbo Zhou, Ao Dong, Yufei Huang, Stan Z. Li, Feng Ju*</p>
-    <p class="featured-item__venue">Nature Communications <span>Accepted · 2026</span></p>
+    <p class="featured-item__venue">Nature Communications <span>Accepted · 2026</span> <span>JIF 18.1 (2025)</span> <span>Nature Index journal</span></p>
     <p class="featured-item__summary">Deep-learning-based discovery of RNA viruses.</p>
   </div>
 </div>
@@ -71,7 +71,7 @@ Selected publications, including preprints and work in preparation.
   <div class="featured-item__body">
     <h3 class="featured-item__title"><a href="https://pubs.acs.org/doi/full/10.1021/acs.est.5c00246" target="_blank">Determining Antimicrobial Resistance in the Plastisphere: Lower Risks of Nonbiodegradable vs Higher Risks of Biodegradable Microplastics</a></h3>
     <p class="featured-item__authors"><strong>Gaoyang Luo</strong>, Lu Fan, Bin Liang, Jianhua Guo, Shu-Hong Gao*</p>
-    <p class="featured-item__venue">Environmental Science &amp; Technology <span>2025</span> <span>JCR Q1</span> <span>JIF 11.3 (2024)</span> <span>ACS ES&amp;T flagship</span></p>
+    <p class="featured-item__venue">Environmental Science &amp; Technology <span>2025</span> <span>JCR Q1</span> <span>JIF 12.2 (2026)</span> <span>Nature Index journal</span> <span>Field-leading journal</span></p>
     <p class="featured-item__summary">Quantifying antimicrobial-resistance risk in the plastisphere.</p>
   </div>
 </div>
@@ -82,7 +82,7 @@ Selected publications, including preprints and work in preparation.
   <div class="featured-item__body">
     <h3 class="featured-item__title"><a href="https://pubs.acs.org/doi/full/10.1021/acs.est.3c01128" target="_blank">Determining the Contribution of Micro/Nanoplastics to Antimicrobial Resistance: Challenges and Perspectives</a></h3>
     <p class="featured-item__authors"><strong>Gaoyang Luo</strong>, Bin Liang, Hanlin Cui, Yuanyuan Kang, Xu Zhou, Yu Tao, Lu Lu, Lu Fan, Jianhua Guo, Aijie Wang, Shu-Hong Gao*</p>
-    <p class="featured-item__venue">Environmental Science &amp; Technology <span>2023</span> <span>JCR Q1</span> <span>JIF 11.3 (2024)</span> <span>ACS ES&amp;T flagship</span></p>
+    <p class="featured-item__venue">Environmental Science &amp; Technology <span>2023</span> <span>JCR Q1</span> <span>JIF 12.2 (2026)</span> <span>Nature Index journal</span> <span>Field-leading journal</span></p>
     <p class="featured-item__summary">A review of antimicrobial-resistance risk associated with micro- and nanoplastics.</p>
   </div>
 </div>
